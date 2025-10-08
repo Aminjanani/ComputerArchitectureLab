@@ -1,0 +1,19 @@
+NET "a" LOC = P10;
+NET "b" LOC = P7;
+NET "c" LOC = P11;
+NET "d" LOC = P5;
+NET "e" LOC = P4;
+NET "f" LOC = P12;
+NET "g" LOC = P9;
+NET "dpbit" LOC = P3;
+
+NET "D1" LOC = P30;
+NET "C1" LOC = P31;
+NET "B1" LOC = P32;
+NET "A1" LOC = P33;
+
+NET "digit_select[0]" LOC = P15;
+NET "digit_select[1]" LOC = P20; 
+NET "digit_select[2]" LOC = P19; 
+NET "digit_select[3]" LOC = P18; 
+NET "digit_select[4]" LOC = P16
